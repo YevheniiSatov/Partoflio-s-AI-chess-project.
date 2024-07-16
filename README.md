@@ -21,7 +21,7 @@ Chess Game is a chess game with a graphical user interface and AI support.
    cd semes32/
 2. Run the application:
 
-   java -jar /out/artifacts/semes32_jar/semes32.jar
+   java -jar out/artifacts/Partoflio_s_AI_chess_project__jar/Partoflio-s-AI-chess-project..jar
 
 ## Usage
 - Launch the game and choose the game mode (player vs AI or player vs player).
